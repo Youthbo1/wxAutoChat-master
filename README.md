@@ -21,12 +21,3 @@
     nohup python AI.py -m friend -u 小伙贼亮 -c 嘚瑟啥呢 -a False &
 
 
-### 关于赞助
-
-如果觉得这个项目对你有帮助，有工程或者视野上的启发，
-
-本着自愿原则进行赞助 
-
-
-![avatar](png/wxzf.jpg)
-![avatar](png/zfb.jpg)
